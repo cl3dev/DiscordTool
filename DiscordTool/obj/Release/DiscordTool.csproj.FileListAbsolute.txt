@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\DiscordTool\DiscordTool\bin\Release\DiscordTool.exe.config
+D:\VisualStudioProjects\DiscordTool\DiscordTool\bin\Release\DiscordTool.exe
+D:\VisualStudioProjects\DiscordTool\DiscordTool\bin\Release\DiscordTool.pdb
+D:\VisualStudioProjects\DiscordTool\DiscordTool\obj\Release\DiscordTool.Window.resources
+D:\VisualStudioProjects\DiscordTool\DiscordTool\obj\Release\DiscordTool.Properties.Resources.resources
+D:\VisualStudioProjects\DiscordTool\DiscordTool\obj\Release\DiscordTool.csproj.GenerateResource.cache
+D:\VisualStudioProjects\DiscordTool\DiscordTool\obj\Release\DiscordTool.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\DiscordTool\DiscordTool\obj\Release\DiscordTool.exe
+D:\VisualStudioProjects\DiscordTool\DiscordTool\obj\Release\DiscordTool.pdb
+D:\VisualStudioProjects\DiscordTool\DiscordTool\bin\Release\Newtonsoft.Json.dll
+D:\VisualStudioProjects\DiscordTool\DiscordTool\bin\Release\Newtonsoft.Json.xml
+D:\VisualStudioProjects\DiscordTool\DiscordTool\obj\Release\DiscordTool.csproj.CopyComplete
+D:\VisualStudioProjects\DiscordTool\DiscordTool\obj\Release\DiscordTool.csprojAssemblyReference.cache
